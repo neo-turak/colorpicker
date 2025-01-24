@@ -1,8 +1,9 @@
-Color Picker
+Color Picker - Adaptive
 -------------
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Color%20Picker-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1693)
-![https://img.shields.io/github/tag/QuadFlask/colorpicker.svg?label=maven](https://img.shields.io/github/tag/QuadFlask/colorpicker.svg?label=maven)
 [![](https://jitpack.io/v/neo-turak/colorpicker.svg)](https://jitpack.io/#neo-turak/colorpicker)
+
+The library updated to latest SDK, AGP and latest dependency.
 
 ![icon](https://github.com/QuadFlask/colorpicker/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png)
 
@@ -56,7 +57,7 @@ dependencies {
 }
 ```
 
-> check out latest version at [releases](https://github.com/QuadFlask/colorpicker/releases)
+> check out latest version at [releases](https://github.com/neo-turak/colorpicker/releases)
 
 ## Usage
 As a dialog
