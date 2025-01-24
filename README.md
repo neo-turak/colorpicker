@@ -2,6 +2,7 @@ Color Picker
 -------------
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Color%20Picker-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1693)
 ![https://img.shields.io/github/tag/QuadFlask/colorpicker.svg?label=maven](https://img.shields.io/github/tag/QuadFlask/colorpicker.svg?label=maven)
+[![](https://jitpack.io/v/neo-turak/colorpicker.svg)](https://jitpack.io/#neo-turak/colorpicker)
 
 ![icon](https://github.com/QuadFlask/colorpicker/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png)
 
@@ -41,7 +42,7 @@ then add a library dependency
 
 ```groovy
 dependencies {
-	implementation 'com.github.QuadFlask:colorpicker:0.0.15'
+    implementation ("com.github.neo-turak:colorpicker:1.0.0")
 }
 ```
 
